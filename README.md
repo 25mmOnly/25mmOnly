@@ -1,6 +1,6 @@
 # Hello World 
 
-I’m @1_72ndscaleonly
+I’m @72ndscaleonly
 
 The projects here are for desktop apps and python scripts that I use when role playing or building dioramas.
 
